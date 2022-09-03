@@ -9,7 +9,7 @@ i go school i leave school i work
 interesting interest 
 <!--1. Add a link to your favourite website-->
 #### my favourite website 
-1. [Add formatted text] (https://.com)
+1. [Astro-seek](https://astro-seek.com)
 ###
 <!--1. Add an ordered list of your top 5 TV shows or movies-->
 ## Top 5 TV shows/ movies
