@@ -20,3 +20,8 @@ interesting interest
 - lmvkdlv
 <!--1. Add task list of what you want to achieve during the bootcamp.-->
 ## What I would like to achieve:
+- code proficiently 
+- gain a career in 
+- be confident in
+- upgrade my digital footprint
+- network with friendly people
