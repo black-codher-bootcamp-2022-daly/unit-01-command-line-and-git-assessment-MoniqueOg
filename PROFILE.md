@@ -20,7 +20,7 @@ my name is monique i am unique (change these in more details)
 - Music
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
-### My favourite website 
+### My favourite website 💻
 [Astro-Seek](https://astro-seek.com) - A website that enables to you find your birth-chart and astrological transits that can potentially help predict both personal and world events.
 
 
