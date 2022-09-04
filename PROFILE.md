@@ -6,7 +6,12 @@ my name is monique i am unique (change these in more details)
 ## Education
 i go school i leave school i work
 ## Interests
-interesting interest 
+- Astrology
+- Technology
+- AI 
+- Crypto and Trading
+- Music
+- Skincare and Aesthetics
 <!--1. Add a link to your favourite website-->
 #### my favourite website 
 1. [Astro-seek](https://astro-seek.com)
