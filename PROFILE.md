@@ -22,7 +22,7 @@ my name is monique i am unique (change these in more details)
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
 ### My favourite website 💻
-_[Astro-Seek]_(https://astro-seek.com) - A website that enables to you find your birth-chart and astrological transits that can potentially help predict both personal and world events.
+_[Astro-Seek](https://astro-seek.com)_ - A website that enables to you find your birth-chart and astrological transits that can potentially help predict both personal and world events.
 
 
 ### Top 5 TV shows/ movies 🍿
