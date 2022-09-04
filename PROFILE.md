@@ -20,16 +20,16 @@ my name is monique i am unique (change these in more details)
 - Music
 - Skincare and Aesthetics
 
-### my favourite website 
-1. [Astro-Seek](https://astro-seek.com) - A website that enables to you find your birth-chart and astrological transits that can potentially help predict both personal and world events.
+### My favourite website 
+[Astro-Seek](https://astro-seek.com) - A website that enables to you find your birth-chart and astrological transits that can potentially help predict both personal and world events.
 
 
 ### Top 5 TV shows/ movies 🍿
 1. Miranda
 2. Inside no.9
-3. Matrix
+3. The Matrix
 4. Altered Carbon
-5. Simpsons
+5. The Simpsons
 
 ### What I would like to achieve💫
 - Be able to code proficiently 
