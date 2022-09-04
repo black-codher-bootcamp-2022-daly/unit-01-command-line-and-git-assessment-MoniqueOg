@@ -15,13 +15,13 @@ interesting interest
 ## Top 5 TV shows/ movies
 - Miranda
 - Inside no.9
-- ksnfkew
-- flksnfen
+- Matrix
+- Altered Carbon
 - lmvkdlv
 <!--1. Add task list of what you want to achieve during the bootcamp.-->
 ## What I would like to achieve:
-- code proficiently 
-- gain a career within the tech field
-- be confident in
-- upgrade my digital footprint
-- network with friendly people
+- Be able to code proficiently 
+- To gain a career within the tech industry and utilise my newfound skills
+- Be confident in new environments
+- Upgrade my digital footprint
+- Network with more friendly people
