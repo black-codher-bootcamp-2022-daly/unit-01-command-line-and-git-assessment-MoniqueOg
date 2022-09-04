@@ -14,7 +14,7 @@ i go school i leave school i work
 - Skincare and Aesthetics
 <!--1. Add a link to your favourite website-->
 #### my favourite website 
-1. [Astro-seek](https://astro-seek.com)
+1. [Astro-seek](https://astro-seek.com) - A website that lets you see your birthchart and astrological transits that help predict both personal and world events.
 ###
 <!--1. Add an ordered list of your top 5 TV shows or movies-->
 ## Top 5 TV shows/ movies
