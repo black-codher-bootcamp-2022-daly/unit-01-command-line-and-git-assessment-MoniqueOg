@@ -37,3 +37,8 @@ my name is monique i am unique (change these in more details)
 - Be confident in new environments
 - Upgrade my digital footprint
 - Network with more friendly people
+
+[Now that you've gotten to know me a little better. Let's see what I've learnt so far!](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
+
+<sup>  Black Codher Student
+ | Monique Ogunkeyede </sup>
