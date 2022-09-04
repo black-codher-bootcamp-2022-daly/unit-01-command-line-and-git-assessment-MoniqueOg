@@ -8,10 +8,10 @@
 my name is monique i am unique (change these in more details)
 
 ## Education 🎓
-- Hillcrest School and Computing College
+- Niyo Group's Black Codher - Full Stack Developer Bootcamp
+- North London's Dental Centre - Dental Nursing
 - Solihull College - Mechanical Engineering
-- NLDC - Dental Nursing
-- Black Codher - Bootcamp
+- Hillcrest School and Computing College
 
 ## Interests
 - Astrology
