@@ -43,7 +43,7 @@ my name is monique i am unique (change these in more details)
 <sup>  Black Codher Student
  | Monique Ogunkeyede </sup>
 
- [^1]: My references
+[^1]: My references
 
 [^2]: https://docs.github.com/en
 [^3]: https://emojis.wiki/ <!--for brown tone-->
