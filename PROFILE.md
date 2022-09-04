@@ -14,9 +14,9 @@ my name is monique i am unique (change these in more details)
 
 ## Interests
 - Astrology
-- Technology
-- AI 
-- Crypto and Trading
+- Alkaline food blogs
+- Travel
+- Crypto and AI Trading
 - Music
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
