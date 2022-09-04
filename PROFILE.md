@@ -7,7 +7,7 @@
 my name is monique i am unique (change these in more details)
 
 ## Education 🎓
-- Hillcrest School for Girls
+- Hillcrest School and Computing College
 - Solihull College - Mechanical Engineering
 - NLDC - Dental Nursing
 - Black Codher - Bootcamp
