@@ -17,7 +17,7 @@ my name is monique i am unique (change these in more details)
 - Alkaline food blogs
 - Travel
 - Crypto and AI Trading
-- Music
+- Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
 ### My favourite website 💻
