@@ -1,5 +1,6 @@
 <!--Add your name as a level 1 heading-->
 # Monique Here!💫
+(https://static.wikia.nocookie.net/simpsons/images/3/38/Rayshelle_Peyton.png/revision/latest/top-crop/width/360/height/360?cb=20220425003638)
 <!--1. Add Bio, Education and Interests as level 2 headings-->
 ## Bio:
 my name is monique i am unique (change these in more details)
@@ -14,7 +15,7 @@ i go school i leave school i work
 - Skincare and Aesthetics
 <!--1. Add a link to your favourite website-->
 #### my favourite website 
-1. [Astro-seek](https://astro-seek.com) - A website that lets you see your birthchart and astrological transits that help predict both personal and world events.
+1. [Astro-Seek](https://astro-seek.com) - A website that lets you see your birthchart and astrological transits that help predict both personal and world events.
 ###
 <!--1. Add an ordered list of your top 5 TV shows or movies-->
 ## Top 5 TV shows/ movies
