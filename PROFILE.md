@@ -5,7 +5,7 @@
 
 
 ## Bio:
-Monique decided to change her career path in 2020 . Monique is resilient and persistent. She is working to develop her skills in a new field she has no experience in. She successfully completed her Introduction to Web Development Course at the Code First Girls. She has worked on different projects with different web technologies. Monique applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes trading Stocks & Crypto currencies, exploring different cities around UK, researching astrology, and delving intoprocesses to develop technologies and products that help improve our lives and the health of our planet🌍.
+Monique decided to change her career path in 2020 . Monique is resilient and persistent. She is working to develop her skills in a new field she has no experience in. She successfully completed her Introduction to Web Development Course at the Code First Girls, where she worked on different projects with different web technologies. Monique applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes trading Stocks & Crypto currencies, exploring different cities around UK, researching astrology, and delving intoprocesses to develop technologies and products that help improve our lives and the health of our planet🌍.
 
 ## Education 🎓
 - Full Stack developer Bootcamp. Daly cohort _CBF & Niyo Group_
