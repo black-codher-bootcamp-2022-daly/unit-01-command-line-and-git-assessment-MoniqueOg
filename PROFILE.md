@@ -42,8 +42,8 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 
 [Now you know me a little better. See what I've learnt so far!](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
 
-<sub>  Black Codher Student
- | Monique Ogunkeyede </sub>
+<sup>  Black Codher Student
+ | Monique Ogunkeyede </sup>
 
 [^1]: My references
 
