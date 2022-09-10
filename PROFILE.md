@@ -1,22 +1,23 @@
 
-# Monique Here!
+# Monique Here! 👋
 
 <img src="https://static.wikia.nocookie.net/simpsons/images/3/38/Rayshelle_Peyton.png/revision/latest/top-crop/width/360/height/360?cb=20220425003638" href="Rayshelle Peyton Simpson" width="150"> 
 
 
 ## Bio:
-my name is monique i am unique (change these in more details)
+Monique decided to change her career path in 2020 . Monique is resilient and persistent. She is working to develop her skills in a new field she has no experience in. She successfully completed her Introduction to Web Development Course at the Code First Girls. She has worked on different projects with different web technologies. Monique applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes trading Stocks & Crypto currencies, exploring different cities around UK, researching astrology, and delving intoprocesses to develop technologies and products that help improve our lives and the health of our planet🌍.
 
 ## Education 🎓
-- Niyo Group's Black Codher - Full Stack Developer BootcampFull Stack developer Bootcamp. Daly cohort _CBF & Niyo Group_
-- North London's Dental Centre - Dental Nursing
-- Solihull College - Mechanical Engineering
+- Full Stack developer Bootcamp. Daly cohort _CBF & Niyo Group_
+- Introduction to Web Development. _Code First Girls_
+- Dental Nursing _North London's Dental Centre_
+- Mechanical Engineering _Solihull College_
 - Hillcrest School and Computing College
 
-## Interests
+## Interests 💥
 - Astrology
 - Alkaline food blogs
-- Travel
+- Travelling
 - Crypto and AI Trading
 - Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
