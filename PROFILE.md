@@ -5,7 +5,7 @@
 
 
 ## Bio:
-Monique decided to change her career path in 2020 . Monique is resilient and persistent. She is working to develop her skills in a new field she has no experience in. She successfully completed her Introduction to Web Development Course at the Code First Girls, where she worked on different projects with different web technologies. Monique applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes trading Stocks & Crypto currencies, exploring different cities around UK, researching astrology, and delving intoprocesses to develop technologies and products that help improve our lives and the health of our planet🌍.
+Monique decided to change her career path in 2020 . Monique is resilient and persistent. She is working to develop her skills in a new field she has no experience in. She successfully completed her Introduction to Web Development Course at the Code First Girls, where she worked on different projects with different web technologies. Monique applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes trading Stocks & Crypto currencies, exploring different cities around UK, researching astrology, and delving intoprocesses to develop technologies and products that help improve our lives and the health of our planet <img src="https://media4.giphy.com/media/UOdoMz3baCENO/giphy.gif?cid=ecf05e47cyqy7oztmuuv0w3trvyeyfbh04d8plo9wywcffw4&rid=giphy.gif&ct=g" width="30"/></li>.
 
 ## Education 🎓
 - Full Stack developer Bootcamp. Daly cohort _CBF & Niyo Group_
@@ -22,7 +22,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
-### My favourite website 💻
+### My favourite website <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
 **[Astro-Seek](https://astro-seek.com)** - _Enables to you find your birth-chart and astrological transits._
 
 ### Top 5 TV shows/ movies 🍿
@@ -32,7 +32,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 4. Altered Carbon
 5. The Simpsons
 
-###  Task List of what i want to achieve during the bootcamp 🎯
+###  Task List: What I will achieve during the bootcamp 🎯
 - [ ] Understand Object Oriented Programming
 - [ ] Create web application using React.js
 - [ ] learn to programme using python
@@ -42,8 +42,8 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 
 [Now you know me a little better. See what I've learnt so far!](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
 
-<sup>  Black Codher Student
- | Monique Ogunkeyede </sup>
+<sub>  Black Codher Student
+ | Monique Ogunkeyede </sub>
 
 [^1]: My references
 
