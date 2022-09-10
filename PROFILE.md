@@ -23,8 +23,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
 ### My favourite website 💻
-**[Astro-Seek](https://astro-seek.com)** - _A website that enables to you find your birth-chart and astrological transits that can potentially help predict both personal and world events._ 
-
+**[Astro-Seek](https://astro-seek.com)** - _Enables to you find your birth-chart and astrological transits._
 
 ### Top 5 TV shows/ movies 🍿
 1. Miranda
