@@ -8,7 +8,7 @@
 my name is monique i am unique (change these in more details)
 
 ## Education 🎓
-- Niyo Group's Black Codher - Full Stack Developer Bootcamp
+- Niyo Group's Black Codher - Full Stack Developer BootcampFull Stack developer Bootcamp. Daly cohort _CBF & Niyo Group_
 - North London's Dental Centre - Dental Nursing
 - Solihull College - Mechanical Engineering
 - Hillcrest School and Computing College
@@ -32,12 +32,13 @@ my name is monique i am unique (change these in more details)
 4. Altered Carbon
 5. The Simpsons
 
-### What I would like to achieve💫
-- Be able to code proficiently 
-- To gain a career within the tech industry and utilise my newfound skills
-- Be confident in new environments
-- Upgrade my digital footprint
-- Network with more friendly people
+###  Task List of what i want to achieve during the bootcamp 🎯
+- [ ] Understand Object Oriented Programming
+- [ ] Create web application using React.js
+- [ ] learn to programme using python
+- [ ] Master Data Structure and Algorithm
+- [ ] Create APIs
+- [ ] Get a job as Junior Software Developer
 
 [Now you know me a little better. See what I've learnt so far!](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
 
